@@ -1,4 +1,3 @@
 # hello-world
-Demo Repository
 
-Working on learning the ins and outs of github!
+Test repo to learn & get familiar with github.
